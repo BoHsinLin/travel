@@ -1,0 +1,1 @@
+{"name":"行程 PWA","short_name":"行程","description":"多天行程、按天分開顯示，手機可安裝至主畫面","start_url":"/","display":"standalone","background_color":"#ffffff","theme_color":"#2563eb","lang":"en","scope":"/","icons":[{"src":"/vite.svg","sizes":"any","type":"image/svg+xml","purpose":"any"},{"src":"/vite.svg","sizes":"any","type":"image/svg+xml","purpose":"maskable"}]}
